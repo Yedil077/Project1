@@ -1,0 +1,47 @@
+.container {
+    margin: auto;
+    max-width: 1044px;
+    min-width: 600px;
+
+    padding-left: 30px;
+    padding-right: 40px;
+    padding-top: 5px;
+}
+
+.additional {
+    border: 1px solid #cecece;
+    border-bottom: 1px solid #cecece;
+}
+
+.goback {
+    margin-top: 10px;   
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: none;
+    color: black
+}
+
+.goback:hover {
+    color: orangered;
+}
+
+.details {
+    display: flex;
+    margin-top: 5px;
+    padding-bottom: 20px;
+
+}
+
+.info {
+    padding-top: 20px;
+    text-align: justify;
+}
+
+h4 {
+    margin: 0
+}
+
+.img {
+    margin-right: 20px; 
+}
+

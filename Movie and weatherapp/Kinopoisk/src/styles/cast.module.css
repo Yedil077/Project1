@@ -1,0 +1,35 @@
+.container {
+    margin: auto;
+    max-width: 1200px;
+
+}
+
+.cast {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    list-style-type: none;
+    padding: 0;
+    
+}
+
+.actor {
+    margin: 0;
+    width: max-content;
+    text-align: center;
+    outline: 1px solid rgb(217, 217, 217);
+
+}
+
+img{
+    margin: 0;
+}
+
+.p {
+    text-align: center;
+}
+
+.anycast {
+    padding: 20px;
+}
